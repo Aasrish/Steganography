@@ -40,6 +40,13 @@ Output Text file on zooming out </br>
 Coloured letters in output text file </br> 
 ![Out3](https://github.com/Aasrish/Steganography/assets/76608418/7f7083a1-c85d-48d1-81b8-f84eb6a19412)
 
+# Repo Contents
+
+- This repository contains Steganograph_Program.ipynb, Steganograph_Pragram.py and Test.
+- Steganograph_Program.ipynb is the source code file extracted from Google Colab.
+- Steganograph_Program.py is the same source code file in .py format
+- Test has an a test input image, and the output I got from the program.
+
 # Note
 
 - For the purpose of the task I’ve written the program in Python.
@@ -47,5 +54,9 @@ Coloured letters in output text file </br>
 - Since its google colab, we need to upload the image provided onto colab to run the code.
 - I’ve written a code where we need not supply any input text file. It will automatically generate alternating 1 & 0 for the purpose of output file. The program includes the code to do the task.
 - In order for the output image to be visible I had to change the font and between-line spacing in the output file manually.
+
+# Team Members:
+
+- Aasrish Vinay Perumalla (B20CS042)
 
 
